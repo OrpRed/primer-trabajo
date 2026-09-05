@@ -1,2 +1,1 @@
-Proceso de subida de archivos a GitHub
-Ejemplo de creación de ramm
+Texto diferente escrito desde RAMA-CONFLICTO
