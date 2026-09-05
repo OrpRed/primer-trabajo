@@ -1,1 +1,4 @@
+
 Texto original escrito desde MASTER
+
+Texto diferente escrito desde RAMA-CONFLICTO
