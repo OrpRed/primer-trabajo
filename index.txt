@@ -2,3 +2,4 @@
 Texto original escrito desde MASTER
 
 Texto diferente escrito desde RAMA-CONFLICTO
+Cambio hecho por un colaborador para revision
