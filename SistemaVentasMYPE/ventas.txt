@@ -1,0 +1,3 @@
+[08/10/2026 01:16:17] DNI:48513963 | Prod:Laptop Lenovo | Cant:5 | Total: S/14750.00
+[08/10/2026 01:16:28] DNI:48513963 | Prod:Laptop Lenovo | Cant:1 | Total: S/2950.00
+[08/10/2026 01:16:55] DNI:48513963 | Prod:Laptop Lenovo | Cant:3 | Total: S/8850.00
